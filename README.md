@@ -1,5 +1,9 @@
-# Galagino 3.0 ported from speckholier platformio to Arduino IDE - with 8 additional games: https://github.com/speckhoiler/galagino
+# Galagino 3.0 a special LVL ESP32-2432S024 porting with enanched joystick and flyer oled display, with bluethooth support for external controller.
 
+Video tutorial for build a new Galagino V3.0:  https://youtu.be/Nz3LRrY3Ukw 
+To build a joystick you neet to see the Galagino V2.0 video: https://youtu.be/YmvyNwJLqJM
+
+ported from speckholier platformio to Arduino IDE - with 8 additional games: https://github.com/speckhoiler/galagino
 This repo is a port of Till Harbaum's awesome [Galaga emulator](https://github.com/harbaum/galagino) ported to platformio.
 This port is NOT by the original author, so please do not bother him with issues.
 
@@ -9,7 +13,7 @@ This port is NOT by the original author, so please do not bother him with issues
 
 * Joystick 4 posizioni/4 way joystick type15: https://s.click.aliexpress.com/e/_c3Qgeoth
 * PCF8574P: https://s.click.aliexpress.com/e/_oDPPZgo
-* Nodulo LVGL 2.4" ESP32: https://s.click.aliexpress.com/e/_DECY96V
+* Nodulo LVGL 2.4" ESP32-2432S024: https://s.click.aliexpress.com/e/_DECY96V
 * Connettori JST 1.25MM, 10Cm, 2P/Connector 2P: https://s.click.aliexpress.com/e/_DBzkKsz
 * Connettori JST 1.25MM, 10Cm, 4P/Connector 4P: https://s.click.aliexpress.com/e/_DF72N8Z
 * Batteria al Litio 3.7V 2000mA/lythium battery: https://s.click.aliexpress.com/e/_c3S7Fg07 oppure https://amzn.to/4b0yBZs
