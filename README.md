@@ -3,6 +3,8 @@
 This repo is a port of Till Harbaum's awesome [Galaga emulator](https://github.com/harbaum/galagino) ported to platformio.
 This port is NOT by the original author, so please do not bother him with issues.
 
+![IMG_6985_(00-00-00-00)](https://github.com/user-attachments/assets/6cb5540a-4477-43ef-997c-9424cbe6df4d)
+
 ## Hardware
 
 * Joystick 4 posizioni/4 way joystick type15: https://s.click.aliexpress.com/e/_c3Qgeoth
@@ -17,7 +19,6 @@ This port is NOT by the original author, so please do not bother him with issues
 * Resistenze SMD 4.7K 0805/Resistors: https://s.click.aliexpress.com/e/_DdHzrWd
 * Presa USB-C / Pmnt USB type C: https://s.click.aliexpress.com/e/_c4nfNYSV
 * Mini controller BT: https://s.click.aliexpress.com/e/_c2JYkcQF
-
 
 ## Software
 
