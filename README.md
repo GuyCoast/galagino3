@@ -1,4 +1,4 @@
-# Galagino 3.0 a special LVL ESP32-2432S024 porting with enanched joystick and flyer oled display, with bluethooth support for external controller.
+# Galagino 3.2 a special LVL ESP32-2432S024 porting with enanched joystick and flyer oled display, with bluethooth support for external controller.
 Galagino V3.0 software can be uploaded on V2.0 hardware without any modification.
 
 Video tutorial for build a new Galagino V3.0:  https://youtu.be/Nz3LRrY3Ukw 
