@@ -45,12 +45,10 @@ This port is NOT by the original author, so please do not bother him with issues
 <img width="224" height="288" alt="bagman" src="https://github.com/user-attachments/assets/ab861795-0ada-4118-8f82-5f636cac7557" />
 <img width="224" height="288" alt="anteater" src="https://github.com/user-attachments/assets/e7914917-bd36-4252-a196-c7b0d45e3da3" />
 <img width="224" height="288" alt="1942" src="https://github.com/user-attachments/assets/f09ff10f-0bfe-402b-bdc8-2f2bb9e23b82" />
-![Galaxian](https://github.com/user-attachments/assets/25bfec15-d028-4772-9e1f-c38b1c751271)
-![pacman](https://github.com/user-attachments/assets/218fafdf-3750-4bad-af19-9a825435d816)
-![Galaga](https://github.com/user-attachments/assets/5f3d89f8-5f08-4e20-940e-c5f2a63ce4ba)
-![dkong](https://github.com/user-attachments/assets/2c92ff66-bffa-435f-abea-f5aa5ad31b80)
-
-
+<img width="224" height="288" alt="Galaxian" src="https://github.com/user-attachments/assets/25bfec15-d028-4772-9e1f-c38b1c751271" />
+<img width="224" height="288" alt="Pacman" src="https://github.com/user-attachments/assets/218fafdf-3750-4bad-af19-9a825435d816" />
+<img width="224" height="288" alt="Galaga" src="https://github.com/user-attachments/assets/5f3d89f8-5f08-4e20-940e-c5f2a63ce4ba" />
+<img width="224" height="288" alt="DonkeyKong" src="https://github.com/user-attachments/assets/2c92ff66-bffa-435f-abea-f5aa5ad31b80" />
 
 ## Software
 
