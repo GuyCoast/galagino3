@@ -61,22 +61,22 @@
 #define ENABLE_DIGDUG
 #define ENABLE_1942
 #define ENABLE_EYES
-// #define ENABLE_LIZARD
-// #define ENABLE_THEGLOB
-// #define ENABLE_MRTNT
+#define ENABLE_LIZARD
+#define ENABLE_THEGLOB
+#define ENABLE_MRTNT
 #define ENABLE_CRUSH
-// #define ENABLE_ANTEATER
+#define ENABLE_ANTEATER
 #define ENABLE_MRDO
 #define ENABLE_BOMBJACK
 #define ENABLE_MSPACMAN
 #define ENABLE_GALAXIAN
 #define ENABLE_LADYBUG
-#define ENABLE_GYRUSS // to enable this game you must disable Tutankham
+//#define ENABLE_GYRUSS // to enable this game you must disable Tutankham
 #define ENABLE_TIMEPLT
 #define ENABLE_PENGO
 #define ENABLE_BAGMAN
 #define ENABLE_SPACE
-#define ENABLE_TUTANKHM // to enable this game you must disable GYRUSS
+// #define ENABLE_TUTANKHM // to enable this game you must disable GYRUSS
 #if !defined(ENABLE_PACMAN) && !defined(ENABLE_GALAGA) && !defined(ENABLE_DKONG) && !defined(ENABLE_FROGGER) && !defined(ENABLE_DIGDUG) && !defined(ENABLE_1942) && !defined(ENABLE_EYES) && !defined(ENABLE_LIZARD) && !defined(ENABLE_THEGLOB) && !defined(ENABLE_MRTNT) && !defined(ENABLE_CRUSH) && !defined(ENABLE_ANTEATER) && !defined(ENABLE_MRDO) && !defined(ENABLE_BOMBJACK) && !defined(ENABLE_GALAXIAN) && !defined(ENABLE_LADYBUG) && !defined(ENABLE_GYRUSS) && !defined(ENABLE_TIMEPLT) && !defined(ENABLE_PENGO) && !defined(ENABLE_BAGMAN) && !defined(ENABLE_SPACE) && !defined(ENABLE_TUTANKHM)
   #error "At least one machine has to be enabled!"
 #endif
