@@ -82,6 +82,7 @@ Please ensure that the stripts run without errors!
 * COIN + UP/DOWN to setup volume
 * COIN pressed for 10 second to enable/disable BT
 * START for 5 seconds to exit game and return to selection menu
+* FIRE during boot to access configuration menu
 
 ## Attract mode
 
