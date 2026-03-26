@@ -1,5 +1,5 @@
 # Galagino 3.2 a special LVL ESP32-2432S024 porting with enanched joystick and flyer oled display, with bluethooth support for external controller.
-Galagino V3.0 software can be uploaded on V2.0 hardware without any modification.
+Galagino V3.2 software can be uploaded on V2.0 hardware without any modification.
 
 Video tutorial for build a new Galagino V3.0:  https://youtu.be/Nz3LRrY3Ukw 
 
@@ -25,6 +25,32 @@ This port is NOT by the original author, so please do not bother him with issues
 * Resistenze SMD 4.7K 0805/Resistors: https://s.click.aliexpress.com/e/_DdHzrWd
 * Presa USB-C / Pmnt USB type C: https://s.click.aliexpress.com/e/_c4nfNYSV
 * Mini controller BT: https://s.click.aliexpress.com/e/_c2JYkcQF
+
+<img width="195" height="259" alt="tutankham" src="https://github.com/user-attachments/assets/95170047-8a0e-475a-87dd-19cfe15cdc7c" />
+<img width="210" height="240" alt="timeplt" src="https://github.com/user-attachments/assets/f26e6cde-2d99-4c92-a8b2-14a14e1cc538" />
+<img width="224" height="288" alt="theglob" src="https://github.com/user-attachments/assets/043d37cb-a3e7-42e2-aa3f-f124fb39538f" />
+<img width="224" height="288" alt="pengo" src="https://github.com/user-attachments/assets/74120ad5-5ef3-4a2d-b4ff-8ae1740492a6" />
+<img width="198" height="255" alt="mspacman" src="https://github.com/user-attachments/assets/55845ea5-3b6c-4a97-b712-09089c671e4f" />
+<img width="224" height="288" alt="mrtnt" src="https://github.com/user-attachments/assets/d81095c8-101c-4a40-8379-cca3effc9e60" />
+<img width="224" height="288" alt="mrdo" src="https://github.com/user-attachments/assets/c0f6e7f0-0a77-461b-b977-f97415cb8122" />
+<img width="224" height="288" alt="lizwiz" src="https://github.com/user-attachments/assets/2ef2a2ef-d4b7-4691-b404-0d58fb9034ca" />
+<img width="192" height="240" alt="LadyBug" src="https://github.com/user-attachments/assets/9fed1c3f-b4c7-4eb1-bb6a-f3dc6971add2" />
+<img width="210" height="240" alt="invaders" src="https://github.com/user-attachments/assets/c242bd38-97d8-4b76-80a8-8d6e2cbe9e19" />
+<img width="210" height="240" alt="gyrrus" src="https://github.com/user-attachments/assets/58d9f40c-2246-459f-a186-5a5f17726392" />
+<img width="224" height="288" alt="frogger" src="https://github.com/user-attachments/assets/141aebbd-7346-46a8-af7c-d5d17bb1dc0b" />
+<img width="224" height="288" alt="eyes" src="https://github.com/user-attachments/assets/a1858b34-95c9-45f2-b813-3dea62a7edc3" />
+<img width="224" height="288" alt="digdug" src="https://github.com/user-attachments/assets/69952234-dfb1-4b60-907f-9a6b70a37843" />
+<img width="224" height="288" alt="crush" src="https://github.com/user-attachments/assets/316773ed-8551-417e-b092-bdbc2bb89d36" />
+<img width="224" height="288" alt="bombjack" src="https://github.com/user-attachments/assets/a0a4b67b-56fe-4b06-bb82-a44291ee4608" />
+<img width="224" height="288" alt="bagman" src="https://github.com/user-attachments/assets/ab861795-0ada-4118-8f82-5f636cac7557" />
+<img width="224" height="288" alt="anteater" src="https://github.com/user-attachments/assets/e7914917-bd36-4252-a196-c7b0d45e3da3" />
+<img width="224" height="288" alt="1942" src="https://github.com/user-attachments/assets/f09ff10f-0bfe-402b-bdc8-2f2bb9e23b82" />
+![Galaxian](https://github.com/user-attachments/assets/25bfec15-d028-4772-9e1f-c38b1c751271)
+![pacman](https://github.com/user-attachments/assets/218fafdf-3750-4bad-af19-9a825435d816)
+![Galaga](https://github.com/user-attachments/assets/5f3d89f8-5f08-4e20-940e-c5f2a63ce4ba)
+![dkong](https://github.com/user-attachments/assets/2c92ff66-bffa-435f-abea-f5aa5ad31b80)
+
+
 
 ## Software
 
