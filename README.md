@@ -55,6 +55,9 @@ Like in the original from Till Harbaum's Galaga emulator, download these files:
     * [SpaceInvaders](https://www.google.com/search?q=invaders.zip+arcade+rom)
     * [Thuthankam](https://www.google.com/search?q=tutankhm.zip+arcade+rom) 
 
+Due to memory limitations, not all games can be enabled. Edit the config.h file to select which games to enable. At least two must always be disabled; otherwise, they won’t fit in the ESP32’s memory.
+By default, Gyruss and Tutankham are disabled; they are still emulated but run too slowly to be playable.
+
 Galagino uses code that is not freely available and thus not included in this repository. Preparing the firmware thus consists of a few additional steps:
 
 * If you do not have Python installed, download it from here. [Python 3.13.0](https://www.python.org/downloads/release/python-3130)
